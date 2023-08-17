@@ -1,4 +1,4 @@
-## About Weigthed-regenie
+## About Weighted-regenie
 
 **This version was developed by Minxian(Wallace) Wang Lab of BIG-CAS**
 
