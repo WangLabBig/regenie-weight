@@ -5,7 +5,7 @@ Use this function, you just need to:
 - Annotation file: add 4th column which represents weight for SNP, seperated by '\t'
 - additional option:  "--weight"
 
-****
+***
 
 [![build](https://github.com/rgcgithub/regenie/actions/workflows/test.yml/badge.svg)](https://github.com/rgcgithub/regenie/actions/workflows/test.yml)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/rgcgithub/regenie?logo=Github)
