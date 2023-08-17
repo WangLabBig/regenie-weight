@@ -1,6 +1,9 @@
 ## About Weigthed-regenie
+
 **This version was developed by Minxian(Wallace) Wang Lab of BIG-CAS**
+
 We implement the function: **Assign unique weight for SNP**(support +/-float weights)
+
 Use this function, you just need to:
 - Annotation file: add 4th column which represents weight for SNP, seperated by '\t'
 - additional option:  "--weight"
