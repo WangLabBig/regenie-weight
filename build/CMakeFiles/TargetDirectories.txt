@@ -1,0 +1,12 @@
+/pmaster/shaoqi/regenie/case/regenie-master/build/CMakeFiles/regenie.dir
+/pmaster/shaoqi/regenie/case/regenie-master/build/CMakeFiles/libMvtnorm.dir
+/pmaster/shaoqi/regenie/case/regenie-master/build/CMakeFiles/libqf.dir
+/pmaster/shaoqi/regenie/case/regenie-master/build/CMakeFiles/libquad.dir
+/pmaster/shaoqi/regenie/case/regenie-master/build/CMakeFiles/pgenlib.dir
+/pmaster/shaoqi/regenie/case/regenie-master/build/CMakeFiles/full-clean.dir
+/pmaster/shaoqi/regenie/case/regenie-master/build/CMakeFiles/edit_cache.dir
+/pmaster/shaoqi/regenie/case/regenie-master/build/CMakeFiles/rebuild_cache.dir
+/pmaster/shaoqi/regenie/case/regenie-master/build/CMakeFiles/list_install_components.dir
+/pmaster/shaoqi/regenie/case/regenie-master/build/CMakeFiles/install.dir
+/pmaster/shaoqi/regenie/case/regenie-master/build/CMakeFiles/install/local.dir
+/pmaster/shaoqi/regenie/case/regenie-master/build/CMakeFiles/install/strip.dir
