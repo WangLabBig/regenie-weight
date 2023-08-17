@@ -1,3 +1,11 @@
+## About Weigthed-regenie
+**This version was developed by Minxian(Wallace) Wang Lab of BIG-CAS**
+We implement the function: **Assign unique weight for SNP**(support +/-float weights)
+Use this function, you just need to:
+- Annotation file: add 4th column which represents weight for SNP, seperated by '\t'
+- additional option:  "--weight"
+
+
 [![build](https://github.com/rgcgithub/regenie/actions/workflows/test.yml/badge.svg)](https://github.com/rgcgithub/regenie/actions/workflows/test.yml)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/rgcgithub/regenie?logo=Github)
 [![install with conda](https://img.shields.io/badge/install%20with-conda-brightgreen.svg)](https://anaconda.org/bioconda/regenie)
