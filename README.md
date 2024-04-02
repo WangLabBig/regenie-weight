@@ -2,6 +2,8 @@
 
 **This version was developed by Minxian(Wallace) Wang Lab of BIG-CAS**
 
+Author: Shaoqi(Kesar-Chi) Wang wangshaoqi@big.ac.cn
+
 We implemented the function: **Assign unique weight for SNP** *(support +/-float weights)*
 
 To use this function, you just need to:
